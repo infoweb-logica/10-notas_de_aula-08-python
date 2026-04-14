@@ -36,7 +36,7 @@ print("Fim")
 ```
 
 ---
-## Exercícios [Lista de exercícios](/lista.md) FIXME
+## Exercícios [Lista de exercícios](/lista.md)
 1. Escreva um programa que usa uma estrutura de repetição para calcular e imprimir a soma dos números inteiros compreendidos no intervalo [1; 10].
 
 2. Escreva um programa que usa uma estrutura de repetição para calcular e imprimir a soma dos números inteiros compreendidos no intervalo [5; 10].
